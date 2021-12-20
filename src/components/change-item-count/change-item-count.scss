@@ -1,0 +1,46 @@
+.change-item-count {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &__change-btn {
+    display: flex;
+    justify-content: center;
+    min-width: 23px;
+    height: 23px;
+    line-height: 18px;
+    background-color: white;
+    border: 1px solid orange;
+    border-radius: 50%;
+    cursor: pointer;
+font-weight: bold;
+    &:hover {
+      background-color: #ff7d04;
+      color: white;
+    }
+  }
+
+  &__number {
+    color: #2d2d2d;
+    font-weight: bold;
+    font-size: 14px;
+    width: 40px;
+
+  }
+
+  &__input {
+    width:50px !important;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  &__input:focus {
+    border: none;
+  }
+
+  &__input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}

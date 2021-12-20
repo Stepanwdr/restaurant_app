@@ -1,0 +1,9 @@
+.modal-overlay{
+  background-color: rgba(0,0,0,0.5);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 899;
+  top: 0;
+  cursor: pointer;
+}

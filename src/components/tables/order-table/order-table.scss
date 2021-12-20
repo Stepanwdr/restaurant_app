@@ -1,0 +1,13 @@
+.order-table{
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  &__head{
+    background-color: #4f4e4e;
+    color: white;
+  }
+  &__title td{
+    padding: 10px;
+  }
+
+}

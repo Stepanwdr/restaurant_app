@@ -1,0 +1,14 @@
+.restaurant-select-item {
+  padding: 5px 7px;
+  cursor: pointer;
+  font-weight: bold;
+  color: #141618;
+  border-radius: 5px;
+  -webkit-transition: all ease .2s;
+  transition: all ease .2s;
+}
+
+.restaurant-select-item:hover {
+  background-color: white;
+}
+/*# sourceMappingURL=restaurant-select-item.css.map */

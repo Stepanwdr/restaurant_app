@@ -1,0 +1,18 @@
+.shopping-cart-modal-empty{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  &__text{
+    color: #4f4e4e;
+  }
+  &__img{
+    width: 150px;
+    background-size: cover;
+    height:150px;
+    background-position: center;
+    background-repeat:no-repeat;
+  }
+}
+

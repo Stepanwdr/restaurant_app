@@ -1,0 +1,22 @@
+.restaurant-select{
+color: white;
+  min-width: 320px;
+  background-color: #ff7d04;
+  padding: 20px;
+  border-radius: 20px;
+  &__top{
+display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+  &__top-header{
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+  }
+  &__restaurant-picker{}
+  &__bottom{
+    margin :10px 0;
+  }
+}

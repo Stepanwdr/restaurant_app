@@ -1,0 +1,38 @@
+.shopping-cart-item {
+  display: flex;
+  align-items: center;
+justify-content: space-between;
+  margin-bottom: 10px;
+  &__left-col{
+    display: flex;
+    align-items: center;
+  }
+  &__right-col{
+    display: flex;
+    align-items: center;
+  }
+  &__body-text {
+    color: #4f4e4e;
+  }
+  &__del {
+color: brown;
+  }
+  &__img {
+    min-width: 75px;
+    height: 75px;
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  &__title {
+color: #2d2d2d;
+    font-weight: bold;
+  }
+
+  &__price {
+    color: #2d2d2d;
+    margin-right: 10px;
+  }
+
+}

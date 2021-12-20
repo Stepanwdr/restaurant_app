@@ -1,0 +1,28 @@
+.payment-methods-select {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  &__item{
+    height: 80px;
+    width: 23%;
+    padding: 0 15px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    outline: 2px solid #aad6ff;
+    border-radius: 10px;
+    color: #4f4e4e;
+    transition: all ease 0.5s;
+    &:hover{
+      outline: 2px solid dodgerblue;
+    }
+  }
+  &__item--active{
+    outline: 2px solid dodgerblue;
+  }
+}

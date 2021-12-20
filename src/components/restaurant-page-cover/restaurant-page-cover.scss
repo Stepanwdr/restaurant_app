@@ -1,0 +1,22 @@
+.restaurant-page-cover{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+  align-items: center;
+ min-height: 410px;
+  position: relative;
+  &__text{
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  &__title{
+    color: white;
+  }
+}

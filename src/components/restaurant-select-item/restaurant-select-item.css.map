@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,uBAAuB,CAAA;EACrB,OAAO,EAAE,OAAO;EAChB,MAAM,EAAE,OAAO;EACf,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,OAAa;EACpB,aAAa,EAAE,GAAG;EAClB,UAAU,EAAE,YAAY;CAMzB;;AAZD,AAQE,uBARqB,AAQpB,MAAM,CAAA;EACL,gBAAgB,EAAE,KAAK;CAExB",
+    "sources": [
+        "restaurant-select-item.scss"
+    ],
+    "names": [],
+    "file": "restaurant-select-item.css"
+}

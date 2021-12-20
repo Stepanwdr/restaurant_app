@@ -1,0 +1,22 @@
+.order-modal-overlay{
+  background-color: rgba(0,0,0,0.5);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 899;
+  top: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.order-modal__content-wrapper{
+  background-color: white;
+  width: 500px;
+  height: 500px;
+  padding: 20px;
+}
+.order-form-modal__content{
+
+}

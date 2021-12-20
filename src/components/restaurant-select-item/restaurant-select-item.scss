@@ -1,0 +1,13 @@
+.restaurant-select-item{
+  padding: 5px 7px;
+  cursor: pointer;
+  font-weight: bold;
+  color: rgb(20,22,24);
+  border-radius: 5px;
+  transition: all ease .2s;
+
+  &:hover{
+    background-color: white;
+
+  }
+}

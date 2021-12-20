@@ -1,0 +1,29 @@
+.food-search-form {
+  width: 80%;
+  &__col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  &__input {
+    padding: 20px;
+    padding-left: 60px;
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+
+    &:focus {
+      outline: none;
+    }
+
+
+  }
+  &__icon {
+    z-index: 100;
+    position:absolute;
+    left: 20px;
+   bottom: 33.333%;
+  }
+}

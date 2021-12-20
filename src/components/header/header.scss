@@ -1,0 +1,32 @@
+.header{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background-color: white;
+  position: fixed;
+  z-index: 800;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  &__shop-cart-icon{
+    cursor: pointer;
+  }
+  &__left-col{
+    display: flex;
+    align-items: center;
+  }
+  &__right-col{
+    align-items: center;
+    margin-left: auto;
+    display: flex;
+  }
+  &__right-menu{
+   margin-right: 20px;
+    font-weight: bold;
+
+  }
+  &__burger-icon{
+    margin-right: 20px;
+    cursor: pointer;
+  }
+}
