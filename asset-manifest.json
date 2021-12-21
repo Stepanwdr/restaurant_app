@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/restaurant_app/static/css/main.05fc41af.chunk.css",
+    "main.js": "/restaurant_app/static/js/main.5d9d548c.chunk.js",
+    "main.js.map": "/restaurant_app/static/js/main.5d9d548c.chunk.js.map",
+    "runtime-main.js": "/restaurant_app/static/js/runtime-main.89c6c4bd.js",
+    "runtime-main.js.map": "/restaurant_app/static/js/runtime-main.89c6c4bd.js.map",
+    "static/css/2.727685ba.chunk.css": "/restaurant_app/static/css/2.727685ba.chunk.css",
+    "static/js/2.4db2b3e6.chunk.js": "/restaurant_app/static/js/2.4db2b3e6.chunk.js",
+    "static/js/2.4db2b3e6.chunk.js.map": "/restaurant_app/static/js/2.4db2b3e6.chunk.js.map",
+    "static/js/3.5313d589.chunk.js": "/restaurant_app/static/js/3.5313d589.chunk.js",
+    "static/js/3.5313d589.chunk.js.map": "/restaurant_app/static/js/3.5313d589.chunk.js.map",
+    "index.html": "/restaurant_app/index.html",
+    "static/css/2.727685ba.chunk.css.map": "/restaurant_app/static/css/2.727685ba.chunk.css.map",
+    "static/css/main.05fc41af.chunk.css.map": "/restaurant_app/static/css/main.05fc41af.chunk.css.map",
+    "static/js/2.4db2b3e6.chunk.js.LICENSE.txt": "/restaurant_app/static/js/2.4db2b3e6.chunk.js.LICENSE.txt",
+    "static/media/AmericanaBurger.c4a5af40.jpg": "/restaurant_app/static/media/AmericanaBurger.c4a5af40.jpg",
+    "static/media/bigCard.367e55e7.png": "/restaurant_app/static/media/bigCard.367e55e7.png",
+    "static/media/clasicburger.ced8e4a2.jpeg": "/restaurant_app/static/media/clasicburger.ced8e4a2.jpeg",
+    "static/media/cover.c721210c.jpg": "/restaurant_app/static/media/cover.c721210c.jpg",
+    "static/media/empty-cart.c644f6fb.svg": "/restaurant_app/static/media/empty-cart.c644f6fb.svg",
+    "static/media/greck.112c92df.jpeg": "/restaurant_app/static/media/greck.112c92df.jpeg",
+    "static/media/landingBg.7bb14b20.jpg": "/restaurant_app/static/media/landingBg.7bb14b20.jpg",
+    "static/media/logo1.79bd88c4.jpg": "/restaurant_app/static/media/logo1.79bd88c4.jpg",
+    "static/media/mone.14c5be87.png": "/restaurant_app/static/media/mone.14c5be87.png",
+    "static/media/mozzarella.8d014c64.jpeg": "/restaurant_app/static/media/mozzarella.8d014c64.jpeg",
+    "static/media/swish.e5c03f95.jpeg": "/restaurant_app/static/media/swish.e5c03f95.jpeg",
+    "static/media/visa.6207ac56.png": "/restaurant_app/static/media/visa.6207ac56.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c6c4bd.js",
+    "static/css/2.727685ba.chunk.css",
+    "static/js/2.4db2b3e6.chunk.js",
+    "static/css/main.05fc41af.chunk.css",
+    "static/js/main.5d9d548c.chunk.js"
+  ]
+}
